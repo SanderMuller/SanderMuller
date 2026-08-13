@@ -2,7 +2,7 @@
 
 [![Laravel Contributor](https://badge.laravel.cloud/contributor/SanderMuller?style=flat)](https://badge.laravel.cloud/contributor/SanderMuller/contributions)
 
-PHP & Laravel developer at [Blinqx]([https://hihaho.com](https://blinqx.ai/en)) and CTO at [hihaho](https://hihaho.com), building interactive video.
+PHP & Laravel developer at [Blinqx]([https://hihaho.com](https://blinqx.ai/en) and CTO at [hihaho](https://hihaho.com), building interactive video.
 
 - 🧰 Laravel, PHP, PHPStan, Rector
 - 🌱 Open source contributor to the Laravel ecosystem
